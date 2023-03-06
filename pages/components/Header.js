@@ -1,8 +1,8 @@
 import Heading from "../components/Heading";
-
+import Navbar from "./Navbar"
 const Header = () => (
   <header>
-    <Heading text={'Obama\'s ass'} tag={'h3'}/>
+    <Navbar/>
   </header>
 )
 
